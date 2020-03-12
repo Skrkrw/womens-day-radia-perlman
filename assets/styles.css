@@ -1,0 +1,35 @@
+
+
+.cards-container{
+    border-style: 1rem solid gray;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card{
+    margin-left: auto;
+    width: 18rem;
+/*    height: 398px!important;*/
+
+    display: inline-block;
+}
+
+.card > img{
+    width: 286px;
+    height: 286px;
+    padding: 5px;
+}
+
+.card-body{
+    height: 190px;
+}
+
+.btn{
+    font-size: 2rem;
+    font-weight: 600;
+    padding-left: 25px!important;
+}
+
+.btn-img{
+    padding-bottom: 5px;
+}
